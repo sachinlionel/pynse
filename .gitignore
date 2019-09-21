@@ -1,0 +1,6 @@
+/data*
+/conf*
+/env*
+.DS_Store
+.idea*
+pynse.log
